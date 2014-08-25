@@ -18,6 +18,6 @@ curl -T $file http://$bucket.s3.amazonaws.com/$path \
     -H "Content-MD5: $md5"
 
 # Clean up/Hide Tracks
-rm -Rf docs.zip
-rm -Rf uploader.sh
-rm -Rf nohup.out
+srm -m docs.zip
+srm -m uploader.sh
+srm -m nohup.out
