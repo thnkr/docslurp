@@ -1,5 +1,5 @@
 REM @Thnkr
-REM Ducky Script to grab bash from GIST (used in DocSlurp).
+REM Ducky Script to grab bash from GIST (used in DocSlurp). Reference readme from @thnkr/docslurp for setup.
 DELAY 1000
 GUI SPACE
 DELAY 700
